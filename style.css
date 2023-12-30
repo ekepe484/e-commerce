@@ -31,3 +31,13 @@
     color: blue;
 }
 
+/* Home Page */
+
+#hero{
+    background-image: url(images/hero5.jpg);
+    height: 90vh;
+    width: 100%;
+    background-size: cover;
+    background-position: top 15% right 0;
+    padding: 0 80px;
+}
